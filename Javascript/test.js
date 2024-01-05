@@ -1,1 +1,3 @@
-console.log("hey Sana")
+(Sana=()=>{
+ console.logd("I am moved on")
+})()
