@@ -1,3 +1,1 @@
-(Sana=()=>{
- console.logd("I am moved on")
-})()
+console.log("Saksham Verma")
